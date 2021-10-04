@@ -12,9 +12,9 @@
   
  Organiser at <img src="https://user-images.githubusercontent.com/60788180/134799779-419078d6-22e8-42d2-9495-af874d5418e8.png" height="20vh"> Azure Developer Community Chandigarh
 
-🏆 Participated in over 60+ hackathons , Mentored several winning teams
+🏆 Participated in over 60+ hackathons :octocat: , Mentored several winning teams
 
-🗣️ 50+ Technical Talk shows, Podcast, Meetups, Conferences - AWS User Group, TensorFlow User Group, Google Developer Group, Microsoft Reactor, Women in Data Science, Microsoft Azure User Group, KonfHub Conferences, Techmakers, School of AI
+🗣️ 50+ Technical Talk shows, Podcast, Meetups, Conferences - AWS User Group, TensorFlow User Group, Google Developer Group, Microsoft Reactor, Women in Data Science, Microsoft Azure User Group, KonfHub Conferences, Techmakers, School of AI 
 📝 I regularly write articles on Medium and Dev
 
 ⚡ In my free time, I love to play Chess ♔, listen to songs 🤘🏼, play 🏏,🏀,🏊‍♂️, learn new languages (French, German) </h4>
