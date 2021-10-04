@@ -1,10 +1,12 @@
 <h4 align="center">
  
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/>, I'm Harsh Chhabra </h1>
-<h3 align="center">Just a codderrrrrr and love to do DevREL... </h3>
- <p class="aligncenter">
-    <img src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" alt="centered image" />
-</p>
+ 
+ 
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="100px" height="100px"></img> <br><br>
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+to+do+DevREL...)](https://git.io/typing-svg)
+
+  <p align="center" width="100%"><img src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" alt="centered image"/></p>
   
  <img src="https://user-images.githubusercontent.com/60788180/130677864-6ddb2ead-aa48-473e-ba37-16d30bf180dc.jpg" height="20vh"> AWS Community Builder 
   
@@ -42,4 +44,15 @@
  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhabraharsh37&count_private=true&theme=radical&layout=compact" alt="chhabraharsh37" />
  
 <p align="center"> 
+ 
+ 
+---
+<div align="center">
+  <h4>🏆 Github Profile Trophies</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=chhabraharsh37&theme=monokai&row=1&no-frame=true&no-bg=true/">
+  </a>
+</div>
+
+
  
