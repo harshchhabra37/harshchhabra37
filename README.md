@@ -6,7 +6,7 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="100px" height="100px"></img> <br><br>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+to+do+DevREL...)](https://git.io/typing-svg)
 
-  <p align="center" width="100%"><img src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" alt="centered image"/></p>
+  <p align="right" width="100%"><img src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif"/></p>
   
  <img src="https://user-images.githubusercontent.com/60788180/130677864-6ddb2ead-aa48-473e-ba37-16d30bf180dc.jpg" height="20vh"> AWS Community Builder 
   
@@ -27,12 +27,12 @@
 <p align="left">
 <div class="footer" id="top3">
   <center> 
-   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="root/linkedin.png" height="30vh">  </a>
-   <a href="https://github.com/chhabraharsh37" class="pics"> <img src="root/github-logo.png" height="30vh"></center></a>
+   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="https://user-images.githubusercontent.com/60788180/135883394-c050e4b5-5406-4ee0-a0f2-73ac5ee98bcc.png" height="30vh">  </a>
+   <a href="https://github.com/chhabraharsh37" class="pics"> <img src="https://user-images.githubusercontent.com/60788180/135883062-eade9732-9534-4171-8525-889575870c3f.png" height="30vh"></center></a>
     <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="https://user-images.githubusercontent.com/60788180/130677206-0f4a593f-a3a8-4d65-ab70-49c86ece5ce2.png" height="30vh">  </a>
     <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="https://user-images.githubusercontent.com/60788180/130677056-e5bbca80-5b36-4a67-a22c-a7ed7305eddc.png" height="30vh">  </a>
-   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="root/youtube (1).png" height="30vh"></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="root/gmail.png" height="30vh"></a>
+   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="https://user-images.githubusercontent.com/60788180/135883303-359d5809-e6cc-464f-8a72-7fd8fe678a0e.png" height="30vh"></a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="https://user-images.githubusercontent.com/60788180/135883777-873f068c-607a-43f9-9ce6-f16a530bd377.png" height="30vh"></a>
   
   </div>
 </p>
