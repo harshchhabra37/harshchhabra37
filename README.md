@@ -18,7 +18,7 @@
 
 📝 I regularly write articles on Medium and Dev
 
-⚡ In my free time, I love to play Chess ♔, listen to songs 🤘🏼, play 🏏,🏀,🏊‍♂️, learn new languages (French, German) </h4>
+⚡ In my free time, I love to play Chess ♟️, listen to songs 🤘🏼, play 🏏,🏀,🏊‍♂️, learn new languages (French, German) </h4>
 
 
 
