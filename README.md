@@ -43,7 +43,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <a href= "https://kubernetes.io"> <img width ='32px' src ='kubernetes.svg'> </a>
 <a href= "https://www.postman.com/chhabraharsh37"> <img width ='32px' src ='postman.svg'> </a>
 <a href= "https://firebase.google.com/"> <img width ='32px' src ='firebase.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=jupyter&sort= > <img width ='32px' src ='https://jupyter.org/assets/main-logo.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=jupyter notebook&sort= > <img width ='32px' src ='https://jupyter.org/assets/main-logo.svg'> </a>
 <a href= "https://aws.amazon.com"> <img width ='32px' src ='aws.svg'> </a>
 <a href= "https://azure.microsoft.com"> <img width ='32px' src ='azure.svg'> </a>
 <a href= "https://cloud.google.com"> <img width ='32px' src ='googlecloud.svg'> </a></p>
