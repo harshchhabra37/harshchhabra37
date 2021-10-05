@@ -62,7 +62,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
     <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="twitter.svg" height="36vh">  </a>
     <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="instagram.svg" height="36vh">  </a>
   <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="discord.svg" height="36vh">  </a>
-  <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="telegram.svg" height="36vh">  </a>
+  <a href="https://t.me/codefloworg" class="pics"><img src="telegram.svg" height="36vh">  </a>
    <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="play.svg" height="36vh"></a>
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="gmail (1).svg" height="36vh"></a>
   
