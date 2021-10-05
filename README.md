@@ -31,6 +31,7 @@ I love to spend time at GitHub :octocat:
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='css.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='bootstrap.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='javascript.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='typescript.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='c.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='cpp.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='python.svg'> </a>
