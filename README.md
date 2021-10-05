@@ -7,12 +7,12 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+to+do+DevREL...)](https://git.io/typing-svg)
   <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-Founder of <strong>Codeflow</strong> <img src="https://user-images.githubusercontent.com/60788180/135982169-6fbbb793-2ebb-4b25-acb1-34e047cbdbe1.png" height="20vh"> <br>
- <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="https://user-images.githubusercontent.com/60788180/135982677-52d33c96-f4e6-41f2-8a24-94f1209ea9ab.png" height="20vh"> <br>
-Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="https://user-images.githubusercontent.com/60788180/135982420-8c5089bc-dbb6-4ec6-b153-83480a5d16df.png" height="20vh"> <br>
-<strong>AWS Community Builder</strong>  <img src="https://user-images.githubusercontent.com/60788180/130677864-6ddb2ead-aa48-473e-ba37-16d30bf180dc.jpg" height="20vh"> <br>
-Organizer of <strong>Azure Developer Community Chandigarh</strong>  <img src="https://user-images.githubusercontent.com/60788180/134799779-419078d6-22e8-42d2-9495-af874d5418e8.png" height="20vh"><br>
-<strong>Postman Student Leader</strong> <img src="https://user-images.githubusercontent.com/60788180/135982544-db6af1e5-e6a1-40f3-b65f-412d522b3e9c.png" height="20vh"> 
+👉 Founder of <strong>Codeflow</strong> <img src="https://user-images.githubusercontent.com/60788180/135982169-6fbbb793-2ebb-4b25-acb1-34e047cbdbe1.png" height="20vh"> <br>
+👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="https://user-images.githubusercontent.com/60788180/135982677-52d33c96-f4e6-41f2-8a24-94f1209ea9ab.png" height="20vh"> <br>
+👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="https://user-images.githubusercontent.com/60788180/135982420-8c5089bc-dbb6-4ec6-b153-83480a5d16df.png" height="20vh"> <br>
+👉 <strong>AWS Community Builder</strong>  <img src="https://user-images.githubusercontent.com/60788180/130677864-6ddb2ead-aa48-473e-ba37-16d30bf180dc.jpg" height="20vh"> <br>
+👉 Organizer of <strong>Azure Developer Community Chandigarh</strong>  <img src="https://user-images.githubusercontent.com/60788180/134799779-419078d6-22e8-42d2-9495-af874d5418e8.png" height="20vh"><br>
+👉 <strong>Postman Student Leader</strong> <img src="https://user-images.githubusercontent.com/60788180/135982544-db6af1e5-e6a1-40f3-b65f-412d522b3e9c.png" height="20vh"> 
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
