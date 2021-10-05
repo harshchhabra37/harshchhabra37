@@ -78,8 +78,6 @@ I love to spend time at <strong>GitHub</strong> :octocat:
  
 <p align="center"> 
  
- 
-
 <div align="center">
   <h4>🏆 Github Profile Trophies</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
