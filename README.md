@@ -27,26 +27,26 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='pics/css.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='pics/bootstrap.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='javascript.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='typescript.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='c.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='cpp.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='python.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='nodejs.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='reactjs.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='ruby.svg'> </a>
-<a href= "https://www.mongodb.com"/> <img width ='32px' src ='mongodb.svg'> </a>
-<a href= "https://www.mysql.com/"> <img width ='32px' src ='mysql.svg'> </a>
-<a href= "https://git-scm.com/"> <img width ='32px' src ='git.svg'> </a>
-<a href= "https://github.com/chhabraharsh37"> <img width ='32px' src ='github.svg'> </a>
-<a href= "https://www.docker.com"> <img width ='32px' src ='docker.svg'> </a>
-<a href= "https://kubernetes.io"> <img width ='32px' src ='kubernetes.svg'> </a>
-<a href= "https://www.postman.com/chhabraharsh37"> <img width ='32px' src ='postman.svg'> </a>
-<a href= "https://firebase.google.com/"> <img width ='32px' src ='firebase.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=jupyternotebook&sort= > <img width ='32px' src ='jupyter.svg'> </a>
-<a href= "https://aws.amazon.com"> <img width ='32px' src ='aws.svg'> </a>
-<a href= "https://azure.microsoft.com"> <img width ='32px' src ='azure.svg'> </a>
-<a href= "https://cloud.google.com"> <img width ='32px' src ='googlecloud.svg'> </a></p>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='pics/javascript.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='pics/typescript.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='pics/c.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='pics/cpp.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='pics/python.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='pics/nodejs.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='pics/reactjs.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='pics/ruby.svg'> </a>
+<a href= "https://www.mongodb.com"/> <img width ='32px' src ='pics/mongodb.svg'> </a>
+<a href= "https://www.mysql.com/"> <img width ='32px' src ='pics/mysql.svg'> </a>
+<a href= "https://git-scm.com/"> <img width ='32px' src ='pics/git.svg'> </a>
+<a href= "https://github.com/chhabraharsh37"> <img width ='32px' src ='pics/github.svg'> </a>
+<a href= "https://www.docker.com"> <img width ='32px' src ='pics/docker.svg'> </a>
+<a href= "https://kubernetes.io"> <img width ='32px' src ='pics/kubernetes.svg'> </a>
+<a href= "https://www.postman.com/chhabraharsh37"> <img width ='32px' src ='pics/postman.svg'> </a>
+<a href= "https://firebase.google.com/"> <img width ='32px' src ='pics/firebase.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=jupyternotebook&sort= > <img width ='32px' src ='pics/jupyter.svg'> </a>
+<a href= "https://aws.amazon.com"> <img width ='32px' src ='pics/aws.svg'> </a>
+<a href= "https://azure.microsoft.com"> <img width ='32px' src ='pics/azure.svg'> </a>
+<a href= "https://cloud.google.com"> <img width ='32px' src ='pics/googlecloud.svg'> </a></p>
 
 <br>
 
@@ -57,14 +57,14 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <p align="left">
 <div class="footer" id="top3">
   <center> 
-   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="linkedin.svg" height="36vh">  </a>
-   <a href="https://github.com/chhabraharsh37" class="pics"> <img src="github.svg" height="36vh"></center></a>
-    <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="twitter.svg" height="36vh">  </a>
-    <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="instagram.svg" height="36vh">  </a>
-  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="discord.svg" height="36vh">  </a>
-  <a href="https://t.me/codefloworg" class="pics"><img src="telegram.svg" height="36vh">  </a>
-   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="youtube.svg" height="36vh"></a>
-     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="gmail (1).svg" height="36vh"></a>
+   <a href="https://www.linkedin.com/in/harshchhabra" class="pics"><img src="pics/linkedin.svg" height="36vh">  </a>
+   <a href="https://github.com/chhabraharsh37" class="pics"> <img src="pics/github.svg" height="36vh"></center></a>
+    <a href="https://www.twitter.com/chhabraharsh37" class="pics"><img src="pics/twitter.svg" height="36vh">  </a>
+    <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="pics/instagram.svg" height="36vh">  </a>
+  <a href="https://discord.gg/s77kYnfSGf" class="pics"><img src="pics/discord.svg" height="36vh">  </a>
+  <a href="https://t.me/codefloworg" class="pics"><img src="pics/telegram.svg" height="36vh">  </a>
+   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="pics/youtube.svg" height="36vh"></a>
+     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="pics/gmail (1).svg" height="36vh"></a>
   
   </div>
 </p>
