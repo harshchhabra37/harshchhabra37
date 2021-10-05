@@ -7,7 +7,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+to+do+DevREL...)](https://git.io/typing-svg)
   <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-Founder of [Codeflow](https://www.github.com/codeflow201) <img src="https://user-images.githubusercontent.com/60788180/135982169-6fbbb793-2ebb-4b25-acb1-34e047cbdbe1.png" height="20vh"> <br>
+Founder of <strong>Codeflow</strong> <img src="https://user-images.githubusercontent.com/60788180/135982169-6fbbb793-2ebb-4b25-acb1-34e047cbdbe1.png" height="20vh"> <br>
  <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="https://user-images.githubusercontent.com/60788180/135982677-52d33c96-f4e6-41f2-8a24-94f1209ea9ab.png" height="20vh"> <br>
 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="https://user-images.githubusercontent.com/60788180/135982420-8c5089bc-dbb6-4ec6-b153-83480a5d16df.png" height="20vh"> <br>
 <strong>AWS Community Builder</strong>  <img src="https://user-images.githubusercontent.com/60788180/130677864-6ddb2ead-aa48-473e-ba37-16d30bf180dc.jpg" height="20vh"> <br>
@@ -17,7 +17,7 @@ Organizer of <strong>Azure Developer Community Chandigarh</strong>  <img src="ht
 I love to spend time at <strong>GitHub</strong> :octocat:
 
 📝 I regularly write articles on <strong>Medium</strong>  <img src="https://user-images.githubusercontent.com/60788180/135983391-b2d912f0-33f0-4171-a443-39ae4b4377fe.png" height="20vh"> 
- and <strong>Dev</strong> <img src="https://user-images.githubusercontent.com/60788180/135983510-e2537076-bc3e-43b6-85ea-f9a78fd95f44.png" height="20vh"> 
+ and <strong>Dev</strong> <img src="https://user-images.githubusercontent.com/60788180/135983510-e2537076-bc3e-43b6-85ea-f9a78fd95f44.png" height="20vh">.
 
 ⚡ In my free time, I love to play Chess  <img src="https://user-images.githubusercontent.com/60788180/135985361-906ee48f-7fc7-497a-b7c1-919eb18a0fbe.png" height="20vh"> 
 , listen to songs  <img src="https://user-images.githubusercontent.com/60788180/135985541-d572f662-f333-4013-9c19-e3352bedc9eb.png" height="20vh"> and watching movies <img src="https://user-images.githubusercontent.com/60788180/135986076-f848297d-d004-4b6e-955d-377e619758be.png" height="20vh"> 
