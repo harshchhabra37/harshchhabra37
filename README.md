@@ -7,7 +7,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+to+do+DevREL...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-👉 Founder of <strong>Codeflow</strong> <img src="https://user-images.githubusercontent.com/60788180/135982169-6fbbb793-2ebb-4b25-acb1-34e047cbdbe1.png" height="20vh"> <br>
+👉 Founder of <strong>Codeflow</strong> <img src="codeflow.png" height="20vh"> <br>
 👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="gdsc.png" height="22vh"> <br>
 👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="mlsa.png" height="20vh"> <br>
 👉 <strong>AWS Community Builder</strong>  <img src="aws.svg" height="20vh"> <br>
@@ -16,8 +16,8 @@
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
-📝 I regularly write articles on <strong>Medium</strong>  <img src="https://user-images.githubusercontent.com/60788180/135983391-b2d912f0-33f0-4171-a443-39ae4b4377fe.png" height="20vh"> 
- and <strong>Hashnode</strong> <img src="https://user-images.githubusercontent.com/60788180/136014628-53c729ab-afd6-4a74-a77b-5264552d6346.png" height="20vh">.
+📝 I regularly write articles on <strong>Medium</strong>  <img src="medium.png" height="20vh"> 
+ and <strong>Hashnode</strong> <img src="hashnode.png" height="20vh">.
 
 ⚡ In my free time, I love to play Chess  <img src="https://user-images.githubusercontent.com/60788180/135985361-906ee48f-7fc7-497a-b7c1-919eb18a0fbe.png" height="20vh"> 
 , listen to songs  <img src="https://user-images.githubusercontent.com/60788180/135985541-d572f662-f333-4013-9c19-e3352bedc9eb.png" height="20vh"> and watching movies <img src="https://user-images.githubusercontent.com/60788180/135986076-f848297d-d004-4b6e-955d-377e619758be.png" height="20vh"> 
