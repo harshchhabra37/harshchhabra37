@@ -29,17 +29,17 @@
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='python.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='nodejs.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='reactjs.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='mongodb.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='mysql.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='ruby.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='git.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='github.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='docker.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' src ='kubernetes.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='postman.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='firebase.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='aws.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' src ='azure.svg'> </a></p>
+<a href= "https://www.mongodb.com"/> <img width ='32px' src ='mongodb.svg'> </a>
+<a href= "https://www.mysql.com/"> <img width ='32px' src ='mysql.svg'> </a>
+<a href= "https://git-scm.com/"> <img width ='32px' src ='git.svg'> </a>
+<a href= "https://github.com/chhabraharsh37"> <img width ='32px' src ='github.svg'> </a>
+<a href= "https://www.docker.com"> <img width ='32px' src ='docker.svg'> </a>
+<a href= "https://kubernetes.io"> <img width ='32px' src ='kubernetes.svg'> </a>
+<a href= "https://www.postman.com/chhabraharsh37"> <img width ='32px' src ='postman.svg'> </a>
+<a href= "https://firebase.google.com/"> <img width ='32px' src ='firebase.svg'> </a>
+<a href= "https://aws.amazon.com"> <img width ='32px' src ='aws.svg'> </a>
+<a href= "https://azure.microsoft.com"> <img width ='32px' src ='azure.svg'> </a></p>
 
 
 
@@ -76,6 +76,3 @@
    <img src="https://github-profile-trophy.vercel.app/?username=chhabraharsh37&theme=monokai&row=1&no-frame=true&no-bg=true/">
   </a>
 </div>
-
-
- 
