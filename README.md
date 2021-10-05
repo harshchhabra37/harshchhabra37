@@ -19,8 +19,8 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 📝 I regularly write articles on <strong>Medium</strong>  <img src="medium.png" height="20vh"> 
  and <strong>Hashnode</strong> <img src="hashnode.png" height="20vh">.
 
-⚡ In my free time, I love to play Chess  <img src="https://user-images.githubusercontent.com/60788180/135985361-906ee48f-7fc7-497a-b7c1-919eb18a0fbe.png" height="20vh"> 
-, listen to songs  <img src="https://user-images.githubusercontent.com/60788180/135985541-d572f662-f333-4013-9c19-e3352bedc9eb.png" height="20vh"> and watching movies <img src="https://user-images.githubusercontent.com/60788180/135986076-f848297d-d004-4b6e-955d-377e619758be.png" height="20vh"> 
+⚡ In my free time, I love to play Chess  <img src="chess.png" height="20vh"> 
+, listen to songs  <img src="songs.png" height="20vh"> and watching movies <img src="movies.png" height="20vh"> 
 . </h4><br>
 
 <p><h2> Skills & Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
