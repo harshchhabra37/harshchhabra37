@@ -7,26 +7,26 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+to+do+DevREL...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-👉 Founder of <strong>Codeflow</strong> <img src="codeflow.png" height="20vh"> <br>
-👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="gdsc.png" height="22vh"> <br>
-👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="mlsa.png" height="20vh"> <br>
-👉 <strong>AWS Community Builder</strong>  <img src="aws.svg" height="20vh"> <br>
-👉 Organizer of <strong>Azure Developer Community <img src="azdev.png" height="20vh"> Chandigarh</strong><br>
-👉 <strong>Postman Student Leader</strong> <img src="postman.svg" height="20vh"> 
+👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"> <br>
+👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"> <br>
+👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"> <br>
+👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"> <br>
+👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong><br>
+👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"> 
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
-📝 I regularly write articles on <strong>Medium</strong>  <img src="medium.png" height="20vh"> 
- and <strong>Hashnode</strong> <img src="hashnode.png" height="20vh">.
+📝 I regularly write articles on <strong>Medium</strong>  <img src="pics/medium.png" height="20vh"> 
+ and <strong>Hashnode</strong> <img src="pics/hashnode.png" height="20vh">.
 
-⚡ In my free time, I love to play Chess  <img src="chess.png" height="20vh"> 
-, listen to songs  <img src="songs.png" height="20vh"> and watching movies <img src="movies.png" height="20vh"> 
+⚡ In my free time, I love to play Chess  <img src="pics/chess.png" height="20vh"> 
+, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
 . </h4><br>
 
 <p><h2> Skills & Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='html.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='css.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='bootstrap.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='pics/css.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='pics/bootstrap.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='javascript.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='typescript.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='c.svg'> </a>
