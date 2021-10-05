@@ -8,11 +8,11 @@
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
 👉 Founder of <strong>Codeflow</strong> <img src="https://user-images.githubusercontent.com/60788180/135982169-6fbbb793-2ebb-4b25-acb1-34e047cbdbe1.png" height="20vh"> <br>
-👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="https://user-images.githubusercontent.com/60788180/135982677-52d33c96-f4e6-41f2-8a24-94f1209ea9ab.png" height="20vh"> <br>
-👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="https://user-images.githubusercontent.com/60788180/135982420-8c5089bc-dbb6-4ec6-b153-83480a5d16df.png" height="20vh"> <br>
+👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="gdsc.png" height="22vh"> <br>
+👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="mlsa.png" height="20vh"> <br>
 👉 <strong>AWS Community Builder</strong>  <img src="aws.svg" height="20vh"> <br>
-👉 Organizer of <strong>Azure Developer Community <img src="https://user-images.githubusercontent.com/60788180/134799779-419078d6-22e8-42d2-9495-af874d5418e8.png" height="20vh"> Chandigarh</strong><br>
-👉 <strong>Postman Student Leader</strong> <img src="postman (1).svg" height="20vh"> 
+👉 Organizer of <strong>Azure Developer Community <img src="azdev.png" height="20vh"> Chandigarh</strong><br>
+👉 <strong>Postman Student Leader</strong> <img src="postman.svg" height="20vh"> 
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
