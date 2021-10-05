@@ -5,7 +5,7 @@
  
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="100px" height="100px"></img> <br><br>
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+to+do+DevREL...)](https://git.io/typing-svg)
-  <img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
+  <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
 👉 Founder of <strong>Codeflow</strong> <img src="https://user-images.githubusercontent.com/60788180/135982169-6fbbb793-2ebb-4b25-acb1-34e047cbdbe1.png" height="20vh"> <br>
 👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="https://user-images.githubusercontent.com/60788180/135982677-52d33c96-f4e6-41f2-8a24-94f1209ea9ab.png" height="20vh"> <br>
