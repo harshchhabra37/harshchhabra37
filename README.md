@@ -12,7 +12,7 @@
 👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="https://user-images.githubusercontent.com/60788180/135982420-8c5089bc-dbb6-4ec6-b153-83480a5d16df.png" height="20vh"> <br>
 👉 <strong>AWS Community Builder</strong>  <img src="https://user-images.githubusercontent.com/60788180/130677864-6ddb2ead-aa48-473e-ba37-16d30bf180dc.jpg" height="20vh"> <br>
 👉 Organizer of <strong>Azure Developer Community <img src="https://user-images.githubusercontent.com/60788180/134799779-419078d6-22e8-42d2-9495-af874d5418e8.png" height="20vh"> Chandigarh</strong><br>
-👉 <strong>Postman Student Leader</strong> <img src="https://user-images.githubusercontent.com/60788180/135982544-db6af1e5-e6a1-40f3-b65f-412d522b3e9c.png" height="20vh"> 
+👉 <strong>Postman Student Leader</strong> <img src="postman (1).svg" height="20vh"> 
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
@@ -63,7 +63,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
     <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="instagram.svg" height="36vh">  </a>
   <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="discord.svg" height="36vh">  </a>
   <a href="https://www.instagram.com/chhabraharsh37" class="pics"><img src="telegram.svg" height="36vh">  </a>
-   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="youtube.svg" height="34vh"></a>
+   <a href="https://www.youtube.com/c/Codefloworg" class="pics"><img src="play.svg" height="36vh"></a>
      <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=chhabraharsh37@gmail.com" class="pics"><img src="gmail (1).svg" height="42vh"></a>
   
   </div>
