@@ -19,11 +19,34 @@
 
 ⚡ In my free time, I love to play Chess ♟️, listen to songs 🤘🏼, play 🏏,🏀,🏊‍♂️, learn new languages (French, German) </h4>
 
+<p><h2> Skills & Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='html.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='css.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='bootstrap.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='javascript.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='c.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='cpp.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='python.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='nodejs.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='reactjs.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='mongodb.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='mysql.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=ruby&sort= > <img width ='32px' src ='ruby.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='git.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='github.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='docker.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' src ='kubernetes.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=postman&sort= > <img width ='32px' src ='postman.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='firebase.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' src ='aws.svg'> </a>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' src ='azure.svg'> </a></p>
+
+
 
 
 ![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chhabraharsh37&theme=dracula)
 
-<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h3>
+<h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
 <div class="footer" id="top3">
   <center> 
