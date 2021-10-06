@@ -82,3 +82,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
    <img src="https://github-profile-trophy.vercel.app/?username=chhabraharsh37&theme=monokai&row=1&no-frame=true&no-bg=true/">
   </a>
 </div>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/chhabraharsh37"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chhabraharsh37" /></a></p><br><br>
+<br>
