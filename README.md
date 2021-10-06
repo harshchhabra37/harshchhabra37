@@ -71,7 +71,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <hr/>
 <img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=chhabraharsh37&show_icons=true&theme=radical&count_private=true'/>
 </p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chhabraharsh37&count_private=true&theme=radical" alt="chhabraharsh37" />
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=chhabraharsh37&count_private=true&theme=radical" alt="chhabraharsh37"/>
  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhabraharsh37&count_private=true&theme=radical&layout=compact" alt="chhabraharsh37" />
  
  <p align="center"> 
