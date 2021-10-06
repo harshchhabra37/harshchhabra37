@@ -81,8 +81,10 @@ I love to spend time at <strong>GitHub</strong> :octocat:
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=chhabraharsh37&theme=monokai&row=1&no-frame=true&no-bg=true/">
   </a>
-</div>
+</div><hr>
+
+![GitHub metrics](https://metrics.lecoq.io/chhabraharsh37)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chhabraharsh37"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chhabraharsh37" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a></p><br><br>
 <br>
