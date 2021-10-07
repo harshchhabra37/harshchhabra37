@@ -46,11 +46,11 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <a href= "https://kubernetes.io"> <img width ='32px' src ='pics/kubernetes.svg'> </a>
 <a href= "https://www.postman.com/chhabraharsh37"> <img width ='32px' src ='pics/postman.svg'> </a>
 <a href= "https://firebase.google.com/"> <img width ='32px' src ='pics/firebase.svg'> </a>
-<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=jupyternotebook&sort= > <img width ='32px' src ='pics/jupyter.svg'> </a>
 <a href= "https://aws.amazon.com"> <img width ='32px' src ='pics/aws.svg'> </a>
 <a href= "https://azure.microsoft.com"> <img width ='32px' src ='pics/azure.svg'> </a>
 <a href= "https://cloud.google.com"> <img width ='32px' src ='pics/googlecloud.svg'> </a>
 <a href= "https://www.linux.org/"> <img width ='32px' src ='pics/linux.svg'> </a></p>
+<a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=jupyternotebook&sort= > <img width ='32px' src ='pics/jupyter.svg'> </a>
 
 <br>
 
