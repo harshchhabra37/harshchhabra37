@@ -83,7 +83,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
   </a>
 </div><hr>
 
-![GitHub metrics](https://metrics.lecoq.io/chhabraharsh37)
+[GitHub metrics](https://metrics.lecoq.io/chhabraharsh37)
 
 ## Badges
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
@@ -93,3 +93,10 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <p><a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a></p><br><br>
 <br>
 
+
+<!-- <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chhabraharsh37&color=dc143c&style=plastic">
+</a> -->
+
+
+![](https://hit.yhype.me/github/profile?user_id=60788180)
