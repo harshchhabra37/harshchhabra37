@@ -50,7 +50,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <br>
 
 
-[Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chhabraharsh37&theme=dracula)
+![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chhabraharsh37&theme=dracula)
 
 ## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
@@ -83,7 +83,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
   </a>
 </div><hr>
 
-[GitHub metrics](https://metrics.lecoq.io/chhabraharsh37?template=terminal&activity=1&achievements=1&notable=1&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FCalcutta)
+![GitHub metrics](https://metrics.lecoq.io/chhabraharsh37?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
 
 ## Badges
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
