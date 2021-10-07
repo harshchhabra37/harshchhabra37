@@ -22,7 +22,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 ⚡ In my free time, I love to play Chess  <img src="pics/chess.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
 . </h4><br>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/chhabraharsh37">
     <img src="https://komarev.com/ghpvc/?username=chhabraharsh37&color=dc143c&style=plastic">
 </a> 
 
