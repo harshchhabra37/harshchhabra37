@@ -22,6 +22,10 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 ⚡ In my free time, I love to play Chess  <img src="pics/chess.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
 . </h4><br>
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chhabraharsh37&color=dc143c&style=plastic">
+</a> 
+
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'> </a>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='pics/css.svg'> </a>
@@ -92,12 +96,6 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 ## Support
 <p><a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a></p><br><br>
 <br>
-
-
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=chhabraharsh37&color=dc143c&style=plastic">
-</a> 
-
 
 ![](https://hit.yhype.me/github/profile?user_id=60788180)
 
