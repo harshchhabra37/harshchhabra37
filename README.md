@@ -94,9 +94,9 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <br>
 
 
-<!-- <a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=chhabraharsh37&color=dc143c&style=plastic">
-</a> -->
+</a> 
 
 
 ![](https://hit.yhype.me/github/profile?user_id=60788180)
