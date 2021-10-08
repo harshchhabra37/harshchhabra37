@@ -84,7 +84,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <div align="center">
   <h4>🏆 Github Profile Trophies</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=chhabraharsh37&theme=monokai&row=1&no-frame=true&no-bg=true/">
+   <img src="https://github-profile-trophy.vercel.app/?username=chhabraharsh37&theme=monokai&row=1&column=8">
   </a>
 </div><hr>
 
