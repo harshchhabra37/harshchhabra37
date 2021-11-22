@@ -104,5 +104,3 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 
 ![](https://hit.yhype.me/github/profile?user_id=60788180)
 
-Note:- Contribution stats of the private repos are not shown in the given below GitHub Contribution Graph.
-
