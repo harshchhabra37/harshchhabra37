@@ -92,6 +92,8 @@ I love to spend time at <strong>GitHub</strong> :octocat:
   </a>
 </div><hr>
 
+![GitHub metrics](https://metrics.lecoq.io/chhabraharsh37?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
+
 ## Badges
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 </a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
