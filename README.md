@@ -29,6 +29,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <a href="https://twitter.com/chhabraharsh37">
     <img src="https://img.shields.io/twitter/follow/chhabraharsh37?style=social">
 </a> 
+<a class="drift-open-chat" href="https://drift.me/chhabraharsh37"><img src="https://img.shields.io/badge/-Chat%20Now-purple?logo=googlemessages&logoColor=white&style=flat-square" /></a>
 
 <p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
 <a href= https://github.com/chhabraharsh37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'> </a>
