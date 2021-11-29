@@ -17,10 +17,10 @@
 I love to spend time at <strong>GitHub</strong> :octocat:
 
 📝 I regularly write articles on <strong>Medium</strong>  <img src="pics/medium.png" height="20vh"> 
- and <strong>Hashnode</strong> <img src="pics/hashnode.png" height="20vh">.
+ and <strong>Hashnode</strong> <img src="pics/hashnode.png" height="20vh">
 
 ⚡ In my free time, I love to play Chess  <img src="pics/chess.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
-. </h4><br>
+</h4><br>
 
 <a href="https://github.com/chhabraharsh37"><img src="https://komarev.com/ghpvc/?username=chhabraharsh37&color=dc143c&style=plastic"></a> 
 <a href="https://github.com/chhabraharsh37?tab=followers"><img src="https://img.shields.io/github/followers/chhabraharsh37?label=Followers&style=social" alt="GitHub Badge"></a>
