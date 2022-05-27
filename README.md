@@ -16,12 +16,21 @@ I am a <b>Full Stack Web Development</b> Intern at <b>Coding Minutes</b>. Coding
 </details>
 <details><summary>👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"></summary>
 <p>
-
+Codeflow is a student's driven organization running for students empowerment
+We are currently working in three domains:
+1.) Open-Source
+2.) Workshops and webinars from industry experts
+3.) Community building
 </p>
 </details>
 <details><summary>👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"></summary>
 <p>
-
+Firebase for Web Facilitator
+  ML Study Jam Facilitator
+  Flutter Festival Facilitator
+  Android Stduy Jam Facilitator
+  30 Days of Google CLoud Facilitator
+  
 </p>
 </details>
 <details><summary>👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"></summary>
@@ -30,18 +39,22 @@ I am a <b>Full Stack Web Development</b> Intern at <b>Coding Minutes</b>. Coding
 </p>
 </details>
 <details><summary>👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"></summary>
-<p>
-
+<p><br>
+The AWS Community Builders program offers technical resources, education, and networking opportunities to AWS technical enthusiasts and emerging thought leaders who are passionate about sharing knowledge and connecting with the technical community.
 </p>
 </details>
 <details><summary>👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong></summary>
-<p>
-
+<p><br>
+Azure Developer Community is a unique upskilling platform aimed at helping developers learn, upskill, and network by attending regular community-events, and sharing knowledge and growing along with the other community members.
 </p>
 </details>
 <details><summary>👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"></summary>
 <p>
+Postman Student Leader
+Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.
 
+Postman Student Expert
+Postman Student Experts are proficient in the essential skills involved in building and testing API requests in Postman.
 </p>
 </details>
 <details><summary>👉 Community Student Partner (CSP) at <strong>C# Corner</strong> <img src="pics/csharp.png" height="24vh"></summary>
