@@ -7,12 +7,101 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"> <br>
-👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"> <br>
-👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"> <br>
-👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"> <br>
-👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong><br>
-👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"> 
+ <details><summary>👉 Web Development Intern at <strong>Coding Minutes</strong> <img src="pics/coding minutes.jpg" height="16vh"></summary>
+ <p> <br>
+I am a <b>Full Stack Web Development</b> Intern at <b>Coding Minutes</b>. Coding Minutes is an ed-tech startup whose motive is to provide great learning resources at a very minimal price.<br>
+   <a href="https://www.codingminutes.com">[Website Link]</a>
+  </p>
+</details>
+<details><summary>👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"></summary>
+<p><br>
+Codeflow is a student's driven organization running for students empowerment
+  
+We are currently working in three domains:
+  
+1.) Open-Source<br>
+2.) Workshops and webinars from industry experts<br>
+3.) Community building<br>
+  
+  And we have conducted very successful and popular events under Codeflow such as OpenForce and DSA Bootcamp.<br>
+  <a href="https://linktr.ee/codefloworg">[Codeflow]</a> <a href="https://www.openforce.tech/">[OpenForce]</a> <a href="https://youtube.com/playlist?list=PLAEKaEzAsglWSaYUpznccQGy4JmNadFZJ">[DSA Bootcamp]</a>
+</p>
+</details>
+<details><summary>👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"></summary>
+<p><br>
+Google Developer Student Club Leads are passionate leaders at their universities who are dedicated to helping their peers learn and connect.
+  
+In GDSC NIT Kurukshetra this year we have conducted 5 events with more than 15 video sessions and we have also made 3 GitHub projects on various technologies.<br>
+  <a href="https://gdsc.community.dev/national-institute-of-technology-nit-kurukshetra/">[Website Link]</a>
+  
+  <b>⚫ Firebase for Web Facilitator</b>
+  > Under this program, we have conducted sessions on Angular and Firebase, and the students are able to learn how to build a web application using Angular and Firebase.<br>
+And more than 540+ students have been impacted by this program.<br>
+  <a href="https://www.youtube.com/playlist?list=PLAEKaEzAsglVYKcHtV6bSb6fW4m4uI_-A">[YT Playlist Link]</a>
+  
+  <b>⚫ ML Study Jam Facilitator</b>
+  
+ > As ML is the most emerging technology at this time. And many students want to learn this technology so we have conducted an ML Bootcamp for them.
+<br>Under which they are able to learn about ML and how to use Kaggle for learning and giving competitions.<br>
+  <a href="https://www.youtube.com/playlist?list=PLAEKaEzAsglWSukXByglixUZFcRJHUcoB">[YT Playlist Link]</a>
+  
+  <b>⚫ Flutter Festival Facilitator</b>
+  
+ > The main purpose of this program is to spread the word about Flutter and Dart. We have conducted tech sessions on these technologies by industry experts.
+430+ students have been impacted by this program.<br>
+And we have done a project Whatshelper under this program using Flutter and Dart.<br>
+  <a href="https://www.youtube.com/playlist?list=PLAEKaEzAsglXKb3CLtctE7ZuGKyZlmfwS">[YT Playlist Link]</a> <a href="https://github.com/harshchhabra37/whatshelper">[GitHub Project Link]</a>
+  
+  <b>⚫ Android Stduy Jam Facilitator</b>
+  
+ > Under this program, we helped students to learn and implement Kotlin. We have conducted 5 YT live sessions with industry experts on Kotlin and Firebase. 
+And more than 570+ students joined us under this program.<br>
+Along with that we have also did an hands-on-project on Kotin named myEvents.<br>
+  <a href="https://www.youtube.com/playlist?list=PLAEKaEzAsglXDK34s8j3Jaiu0gSXa81VH">[YT Playlist Link]</a> <a href="https://github.com/harshchhabra37/myEvents">[GitHub Project Link]</a> <a href="https://drive.google.com/file/d/1_txVUdUGQYy5R5PQudD0yHijWofG5L5v/view?usp=sharing">[Certificate Link]</a>
+  
+  <b>⚫ 30 Days of Google CLoud Facilitator</b>
+  
+> Under this program students have to complete Qwiklabs (Cloud Skill Boost) Quests on Cloud Computing and AI & ML.<br>
+689 students have registered under me for this program out of which 180 students successfully completed Track 1 (Cloud Computing) and 141 students successfully completed Track 2 (AI & ML) and we have also conducted YT live sessions on it for them.<br>
+  <a href="https://drive.google.com/file/d/19VQKAvMs4Ing8YPRhCpN3FqNSzgOmDPG/view?usp=sharing">[Certificate Link]</a>
+</p>
+</details>
+<details><summary>👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"></summary>
+<p><br>
+Microsoft Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills fot the future.<br>
+  <a href="https://studentambassadors.microsoft.com/certificate/c8aec9fd-43ea-46b8-9869-9a9b2b7d4eff">[Profile Link]</a>
+</p>
+</details>
+<details><summary>👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"></summary>
+<p><br>
+The AWS Community Builders program offers technical resources, education, and networking opportunities to AWS technical enthusiasts and emerging thought leaders who are passionate about sharing knowledge and connecting with the technical community.<br>
+  <a href="https://aws.amazon.com/developer/community/community-builders/">[Website Link]</a>
+</p>
+</details>
+<details><summary>👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong></summary>
+<p><br>
+Azure Developer Community is a unique upskilling platform aimed at helping developers learn, upskill, and network by attending regular community-events, and sharing knowledge and growing along with the other community members.<br>
+  <a href="https://azdev.reskilll.com">[Website Link]</a>
+</p>
+</details>
+<details><summary>👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"></summary>
+<p><br>
+<b> ⚫ Postman Student Leader</b>
+
+ > Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.<br>
+  <a href="https://drive.google.com/file/d/1weqeWkHDab2ZABw1vBaANeugAceJN30t/view?usp=sharing">[Certificate Link]</a>
+
+<b> ⚫ Postman Student Expert</b>
+  
+ > Postman Student Experts are proficient in the essential skills involved in building and testing API requests in Postman.<br>
+  <a href="https://drive.google.com/file/d/1d1htnOR2_21OxyCE0Pr1VZdRrdFNaCsA/view?usp=sharing">[Certificate Link]</a></p>
+</details>
+<details><summary>👉 Community Student Partner (CSP) at <strong>C# Corner</strong> <img src="pics/csharp.png" height="24vh"></summary>
+  <p><br>
+C# Corner is an global social community for IT professionals and data developers to exchange their knowledge and experience using various methods such as contributing articles, forums, blogs, and videos.<br>
+    <a href="https://www.c-sharpcorner.com/">[Website Link]</a>
+    </p>
+  </details>
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
