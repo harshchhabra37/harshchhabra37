@@ -40,18 +40,21 @@ We are currently working in three domains:
 </p>
 </details>
 <details><summary>👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"></summary>
-<p>
-
+<p><br>
+Microsoft Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills fot the future.<br>
+  <a href="https://studentambassadors.microsoft.com/certificate/c8aec9fd-43ea-46b8-9869-9a9b2b7d4eff">[Profile Link]</a>
 </p>
 </details>
 <details><summary>👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"></summary>
 <p><br>
-The AWS Community Builders program offers technical resources, education, and networking opportunities to AWS technical enthusiasts and emerging thought leaders who are passionate about sharing knowledge and connecting with the technical community.
+The AWS Community Builders program offers technical resources, education, and networking opportunities to AWS technical enthusiasts and emerging thought leaders who are passionate about sharing knowledge and connecting with the technical community.<br>
+  <a href="https://aws.amazon.com/developer/community/community-builders/">[Website Link]</a>
 </p>
 </details>
 <details><summary>👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong></summary>
 <p><br>
-Azure Developer Community is a unique upskilling platform aimed at helping developers learn, upskill, and network by attending regular community-events, and sharing knowledge and growing along with the other community members.
+Azure Developer Community is a unique upskilling platform aimed at helping developers learn, upskill, and network by attending regular community-events, and sharing knowledge and growing along with the other community members.<br>
+  <a href="https://azdev.reskilll.com">[Website Link]</a>
 </p>
 </details>
 <details><summary>👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"></summary>
