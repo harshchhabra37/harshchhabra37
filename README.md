@@ -58,18 +58,20 @@ Azure Developer Community is a unique upskilling platform aimed at helping devel
 <p><br>
 <b> ⚫ Postman Student Leader</b>
 
-  Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.
+  Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.<br>
+  <a href="https://drive.google.com/file/d/1weqeWkHDab2ZABw1vBaANeugAceJN30t/view?usp=sharing">[Certificate Link]</a>
 
 <b> ⚫ Postman Student Expert</b>
   
-  Postman Student Experts are proficient in the essential skills involved in building and testing API requests in Postman.
-</p>
+  Postman Student Experts are proficient in the essential skills involved in building and testing API requests in Postman.<br>
+  <a href="https://drive.google.com/file/d/1d1htnOR2_21OxyCE0Pr1VZdRrdFNaCsA/view?usp=sharing">[Certificate Link]</a></p>
 </details>
 <details><summary>👉 Community Student Partner (CSP) at <strong>C# Corner</strong> <img src="pics/csharp.png" height="24vh"></summary>
-<p><br>
-C# Corner is an global social community for IT professionals and data developers to exchange their knowledge and experience using various methods such as contributing articles, forums, blogs, and videos.
-</p>
-</details>
+  <p><br>
+C# Corner is an global social community for IT professionals and data developers to exchange their knowledge and experience using various methods such as contributing articles, forums, blogs, and videos.<br>
+    <a href="https://www.c-sharpcorner.com/">[Website Link]</a>
+    </p>
+  </details>
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
