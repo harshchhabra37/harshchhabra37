@@ -10,8 +10,7 @@
  <details><summary>👉 Web Development Intern at <strong>Coding Minutes</strong> <img src="pics/coding minutes.jpg" height="16vh"></summary>
  <p> <br>
 I am a <b>Full Stack Web Development</b> Intern at <b>Coding Minutes</b>. Coding Minutes is an ed-tech startup whose motive is to provide great learning resources at a very minimal price.<br>
-   
-  Coding Minutes Website: https://www.codingminutes.com
+   <a href="https://www.codingminutes.com">[Website Link]</a>
   </p>
 </details>
 <details><summary>👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"></summary>
