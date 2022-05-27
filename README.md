@@ -42,7 +42,7 @@ And more than 540+ students have been impacted by this program.<br>
   <b>⚫ ML Study Jam Facilitator</b>
   
  > As ML is the most emerging technology at this time. And many students want to learn this technology so we have conducted an ML Bootcamp for them.
-<br>Under which they are able to learn about ML and how to use Kaggle for learning and giving competitions.
+<br>Under which they are able to learn about ML and how to use Kaggle for learning and giving competitions.<br>
   <a href="https://www.youtube.com/playlist?list=PLAEKaEzAsglWSukXByglixUZFcRJHUcoB">[YT Playlist Link]</a>
   
   <b>⚫ Flutter Festival Facilitator</b>
