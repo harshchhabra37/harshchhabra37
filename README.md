@@ -15,21 +15,27 @@ I am a <b>Full Stack Web Development</b> Intern at <b>Coding Minutes</b>. Coding
   </p>
 </details>
 <details><summary>👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"></summary>
-<p>
+<p><br>
 Codeflow is a student's driven organization running for students empowerment
+  
 We are currently working in three domains:
-1.) Open-Source
-2.) Workshops and webinars from industry experts
-3.) Community building
+  
+1.) Open-Source<br>
+2.) Workshops and webinars from industry experts<br>
+3.) Community building<br>
 </p>
 </details>
 <details><summary>👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"></summary>
-<p>
-Firebase for Web Facilitator
-  ML Study Jam Facilitator
-  Flutter Festival Facilitator
-  Android Stduy Jam Facilitator
-  30 Days of Google CLoud Facilitator
+<p><br>
+  <b>⚫ Firebase for Web Facilitator</b>
+  
+  <b>⚫ ML Study Jam Facilitator</b>
+  
+  <b>⚫ Flutter Festival Facilitator</b>
+  
+  <b>⚫ Android Stduy Jam Facilitator</b>
+  
+  <b>⚫ 30 Days of Google CLoud Facilitator</b>
   
 </p>
 </details>
@@ -49,17 +55,19 @@ Azure Developer Community is a unique upskilling platform aimed at helping devel
 </p>
 </details>
 <details><summary>👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"></summary>
-<p>
-Postman Student Leader
-Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.
+<p><br>
+<b> ⚫ Postman Student Leader</b>
 
-Postman Student Expert
-Postman Student Experts are proficient in the essential skills involved in building and testing API requests in Postman.
+  Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.Postman Student Leaders teach others the essential skills in using Postman to build and test APIs.
+
+<b> ⚫ Postman Student Expert</b>
+  
+  Postman Student Experts are proficient in the essential skills involved in building and testing API requests in Postman.
 </p>
 </details>
 <details><summary>👉 Community Student Partner (CSP) at <strong>C# Corner</strong> <img src="pics/csharp.png" height="24vh"></summary>
-<p>
-
+<p><br>
+C# Corner is an global social community for IT professionals and data developers to exchange their knowledge and experience using various methods such as contributing articles, forums, blogs, and videos.
 </p>
 </details>
 
