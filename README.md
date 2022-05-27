@@ -7,14 +7,48 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-👉 Web Development Intern at <strong>Coding Minutes</strong> <img src="pics/coding minutes.jpg" height="16vh"> <br>
-👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"> <br>
-👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"> <br>
-👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"> <br>
-👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"> <br>
-👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong><br>
-👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"><br>
-👉 Community Student Partner (CSP) at <strong>C# Corner</strong> <img src="pics/csharp.png" height="24vh">
+ <details><summary>👉 Web Development Intern at <strong>Coding Minutes</strong> <img src="pics/coding minutes.jpg" height="16vh"></summary>
+ <p> <br>
+I am a <b>Full Stack Web Development</b> Intern at <b>Coding Minutes</b>. Coding Minutes is an ed-tech startup whose motive is to provide great learning resources at a very minimal price.<br>
+   
+  Coding Minutes Website: https://www.codingminutes.com
+  </p>
+</details>
+<details><summary>👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"></summary>
+<p>
+
+</p>
+</details>
+<details><summary>👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"></summary>
+<p>
+
+</p>
+</details>
+<details><summary>👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"></summary>
+<p>
+
+</p>
+</details>
+<details><summary>👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"></summary>
+<p>
+
+</p>
+</details>
+<details><summary>👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong></summary>
+<p>
+
+</p>
+</details>
+<details><summary>👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"></summary>
+<p>
+
+</p>
+</details>
+<details><summary>👉 Community Student Partner (CSP) at <strong>C# Corner</strong> <img src="pics/csharp.png" height="24vh"></summary>
+<p>
+
+</p>
+</details>
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
