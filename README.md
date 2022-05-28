@@ -185,7 +185,11 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 
 ## Support
 <p> <a href="https://github.com/sponsors/harshchhabra37"> <img align="left" src="pics/sponsor.jpg" height="50" width="210" alt="harshchhabra" /></a> <a href="https://www.buymeacoffee.com/harshchhabra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshchhabra" /></a></p><br><br>
-<br>
+<br><br>
+
+[![You loved my Profile](https://img.shields.io/badge/GitHub-love-red?logo=github&GitHub=love)](https://github.com/harshchhabra37/harshchhabra37)
+
+**You loved my Profile? Give this repo a star :star: :arrow_up:.**
 
 ![](https://hit.yhype.me/github/profile?user_id=60788180)
 
