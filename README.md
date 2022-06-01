@@ -1,6 +1,6 @@
 <h4 align="center"> 
   
-<h1 align="center">Hi <img src="pics/Hi.gif" width="29px"/>, I'm Harsh Chhabra </h1>
+<h1 align="center">Hi, I'm Harsh Chhabra </h1>
  
  
 <img src="pics/octo.gif" width="100px" height="100px"></img> <br><br>
@@ -116,7 +116,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <a href="https://twitter.com/harshchhabra37"><img src="https://img.shields.io/twitter/follow/harshchhabra37?style=social"></a> 
 <a class="drift-open-chat" href="https://drift.me/harshchhabra37"><img src="https://img.shields.io/badge/-Chat%20Now-gray?logo=googlemessages&logoColor=white&style=flat-square" /></a>
 
-<p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
+<p><h2> Skills & Tools</h2><br>
 <a href= https://github.com/harshchhabra37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'></a>
 <a href= https://github.com/harshchhabra37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='pics/css.svg'></a>
 <a href= https://github.com/harshchhabra37?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='pics/bootstrap.svg'></a>
@@ -147,7 +147,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 
 ![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshchhabra37&theme=dracula)
 
-## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+## Connect with me:</h3>
 <p align="left">
 <div class="footer" id="top3">
   <center> 
