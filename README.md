@@ -7,13 +7,13 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)](https://git.io/typing-svg)
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
- <details><summary>👉 Web Development Intern at <strong>Coding Minutes</strong> <img src="pics/coding minutes.jpg" height="16vh"></summary>
+ <details><summary>👉 Web Development Intern at <strong>Coding Minutes</strong> <a href= "https://www.codingminutes.com"> <img height ="16vh" src ="pics/coding minutes.jpg"></a></summary> 
  <p> <br>
 I am a <b>Full Stack Web Development</b> Intern at <b>Coding Minutes</b>. Coding Minutes is an ed-tech startup whose motive is to provide great learning resources at a very minimal price.<br>
    <a href="https://www.codingminutes.com">[Website Link]</a>
   </p>
 </details>
-<details><summary>👉 Founder of <strong>Codeflow</strong> <img src="pics/codeflow.png" height="20vh"></summary>
+<details><summary>👉 Founder of <strong>Codeflow</strong> <a href= "https://www.youtube.com/c/Codefloworg"> <img src="pics/codeflow.png" height="20vh"></a></summary>
 <p><br>
 Codeflow is a student's driven organization running for students empowerment
   
@@ -27,7 +27,7 @@ We are currently working in three domains:
   <a href="https://linktr.ee/codefloworg">[Codeflow]</a> <a href="https://www.openforce.tech/">[OpenForce]</a> <a href="https://youtube.com/playlist?list=PLAEKaEzAsglWSaYUpznccQGy4JmNadFZJ">[DSA Bootcamp]</a>
 </p>
 </details>
-<details><summary>👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong>  <img src="pics/gdsc.png" height="22vh"></summary>
+<details><summary>👉 <strong>Google DSC Lead</strong> of <strong>NIT Kurukshetra</strong> <a href= "https://gdsc.community.dev/national-institute-of-technology-nit-kurukshetra"> <img src="pics/gdsc.png" height="22vh"></a></summary>
 <p><br>
 Google Developer Student Club Leads are passionate leaders at their universities who are dedicated to helping their peers learn and connect.
   
@@ -66,25 +66,25 @@ Along with that we have also did an hands-on-project on Kotin named myEvents.<br
   <a href="https://drive.google.com/file/d/19VQKAvMs4Ing8YPRhCpN3FqNSzgOmDPG/view?usp=sharing">[Certificate Link]</a>
 </p>
 </details>
-<details><summary>👉 Beta <strong>Microsoft Learn Student Ambassador</strong>  <img src="pics/mlsa.png" height="20vh"></summary>
+<details><summary>👉 Beta <strong>Microsoft Learn Student Ambassador</strong> <a href= "https://studentambassadors.microsoft.com/en-US/profile/72635"> <img src="pics/mlsa.png" height="20vh"></a></summary>
 <p><br>
 Microsoft Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills fot the future.<br>
   <a href="https://studentambassadors.microsoft.com/certificate/c8aec9fd-43ea-46b8-9869-9a9b2b7d4eff">[Profile Link]</a>
 </p>
 </details>
-<details><summary>👉 <strong>AWS Community Builder</strong>  <img src="pics/aws.svg" height="20vh"></summary>
+<details><summary>👉 <strong>AWS Community Builder</strong> <a href= "https://aws.amazon.com/developer/community/community-builders"> <img src="pics/aws.svg" height="20vh"></a></summary>
 <p><br>
 The AWS Community Builders program offers technical resources, education, and networking opportunities to AWS technical enthusiasts and emerging thought leaders who are passionate about sharing knowledge and connecting with the technical community.<br>
   <a href="https://aws.amazon.com/developer/community/community-builders/">[Website Link]</a>
 </p>
 </details>
-<details><summary>👉 Organizer of <strong>Azure Developer Community <img src="pics/azdev.png" height="20vh"> Chandigarh</strong></summary>
+<details><summary>👉 Organizer of <strong>Azure Developer Community <a href= "https://www.meetup.com/azure-developer-community-chandigarh/"> <img src="pics/azdev.png" height="20vh"></a> Chandigarh</strong></summary>
 <p><br>
 Azure Developer Community is a unique upskilling platform aimed at helping developers learn, upskill, and network by attending regular community-events, and sharing knowledge and growing along with the other community members.<br>
   <a href="https://azdev.reskilll.com">[Website Link]</a>
 </p>
 </details>
-<details><summary>👉 <strong>Postman Student Leader</strong> <img src="pics/postman.svg" height="20vh"></summary>
+<details><summary>👉 <strong>Postman Student Leader</strong> <a href= "https://www.postman.com/company/student-program"> <img src="pics/postman.svg" height="20vh"></a></summary>
 <p><br>
 <b> ⚫ Postman Student Leader</b>
 
@@ -96,7 +96,7 @@ Azure Developer Community is a unique upskilling platform aimed at helping devel
  > Postman Student Experts are proficient in the essential skills involved in building and testing API requests in Postman.<br>
   <a href="https://drive.google.com/file/d/1d1htnOR2_21OxyCE0Pr1VZdRrdFNaCsA/view?usp=sharing">[Certificate Link]</a></p>
 </details>
-<details><summary>👉 Community Student Partner (CSP) at <strong>C# Corner</strong> <img src="pics/csharp.png" height="24vh"></summary>
+<details><summary>👉 Community Student Partner (CSP) at <strong>C# Corner</strong> <a href= "https://www.c-sharpcorner.com/members/harsh-chhabra"> <img src="pics/csharp.png" height="24vh"></a></summary>
   <p><br>
 C# Corner is an global social community for IT professionals and data developers to exchange their knowledge and experience using various methods such as contributing articles, forums, blogs, and videos.<br>
     <a href="https://www.c-sharpcorner.com/">[Website Link]</a>
@@ -105,16 +105,18 @@ C# Corner is an global social community for IT professionals and data developers
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
-📝 I regularly write articles on <strong>Medium</strong>  <img src="pics/medium.png" height="20vh"> 
- and <strong>Hashnode</strong> <img src="pics/hashnode.png" height="20vh">
+📝 I regularly write articles on <strong>Medium</strong> <a href= "https://harshchhabra37.medium.com/"> <img src="pics/medium.png" height="20vh"> 
+ and <strong>Hashnode</strong> <a href= "https://hashnode.com/@harshchhabra"> <img src="pics/hashnode.png" height="20vh">
 
-⚡ In my free time, I love to play Chess  <img src="pics/chess.png" height="20vh">, listen to songs  <img src="pics/songs.png" height="20vh"> and watching movies <img src="pics/movies.png" height="20vh"> 
+⚡ In my free time, I love to play Chess  <a href= "https://www.chess.com/"> <img src="pics/chess.png" height="20vh">, listen to songs <a href= "https://youtube.com/playlist?list=PLHuHXHyLu7BHrUOSq7kVXEn0faG4i8DKS"> <img src="pics/songs.png" height="20vh"> and watching movies <a href= "https://www.netflix.com/in/browse/genre/107466"> <img src="pics/movies.png" height="20vh"> 
 </h4><br>
 
 <a href="https://github.com/harshchhabra37"><img src="https://komarev.com/ghpvc/?username=harshchhabra37&color=dc143c&style=plastic"></a> 
 <a href="https://github.com/harshchhabra37?tab=followers"><img src="https://img.shields.io/github/followers/harshchhabra37?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://twitter.com/harshchhabra37"><img src="https://img.shields.io/twitter/follow/harshchhabra37?style=social"></a> 
-<a class="drift-open-chat" href="https://drift.me/harshchhabra37"><img src="https://img.shields.io/badge/-Chat%20Now-gray?logo=googlemessages&logoColor=white&style=flat-square" /></a>
+<a href="https://twitter.com/harshchhabra37"><img src="https://img.shields.io/twitter/follow/harshchhabra37?style=social"></a>
+<a href="https://www.linkedin.com/in/harshchhabra"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/sponsors/harshchhabra37"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
+<a class="drift-open-chat" href="https://drift.me/chhabraharsh37"><img src="https://img.shields.io/badge/-Chat%20Now-gray?logo=googlemessages&logoColor=white&style=flat-square" /></a>
 
 <p><h2> Skills & Tools</h2><br>
 <a href= https://github.com/harshchhabra37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'></a>
