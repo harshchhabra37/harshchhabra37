@@ -1,6 +1,6 @@
 <h4 align="center"> 
   
-<h1 align="center">Hi, I'm Harsh Chhabra </h1>
+<h1 align="center">Hi👋, I'm Harsh Chhabra </h1>
  
  
 <img src="pics/octo.gif" width="100px" height="100px"></img> <br><br>
@@ -118,7 +118,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 	<a href="https://github.com/sponsors/harshchhabra37"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 <a class="drift-open-chat" href="https://drift.me/chhabraharsh37"><img src="https://img.shields.io/badge/-Chat%20Now-gray?logo=googlemessages&logoColor=white&style=flat-square" /></a>
 
-<p><h2> Skills & Tools</h2><br>
+<p><h2> Skills & Tools:</h2><br>
 <a href= https://github.com/harshchhabra37?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='pics/html.svg'></a>
 <a href= https://github.com/harshchhabra37?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='pics/css.svg'></a>
 <a href= https://github.com/harshchhabra37?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='pics/bootstrap.svg'></a>
