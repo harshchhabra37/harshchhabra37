@@ -105,10 +105,10 @@ C# Corner is an global social community for IT professionals and data developers
 
 I love to spend time at <strong>GitHub</strong> :octocat:
 
-📝 I regularly write articles on <strong>Medium</strong> <a href= "https://harshchhabra37.medium.com/"> <img src="pics/medium.png" height="20vh"> 
- and <strong>Hashnode</strong> <a href= "https://hashnode.com/@harshchhabra"> <img src="pics/hashnode.png" height="20vh">
+📝 I regularly write articles on <strong>Medium</strong> <a href= "https://harshchhabra37.medium.com/"> <img src="pics/medium.png" height="20vh"></a> 
+ and <strong>Hashnode</strong> <a href= "https://hashnode.com/@harshchhabra"> <img src="pics/hashnode.png" height="20vh"></a>
 
-⚡ In my free time, I love to play Chess  <a href= "https://www.chess.com/"> <img src="pics/chess.png" height="20vh">, listen to songs <a href= "https://youtube.com/playlist?list=PLHuHXHyLu7BHrUOSq7kVXEn0faG4i8DKS"> <img src="pics/songs.png" height="20vh"> and watching movies <a href= "https://www.netflix.com/in/browse/genre/107466"> <img src="pics/movies.png" height="20vh"> 
+⚡ In my free time, I love to play Chess  <a href= "https://www.chess.com/"> <img src="pics/chess.png" height="20vh"></a>, listen to songs <a href= "https://youtube.com/playlist?list=PLHuHXHyLu7BHrUOSq7kVXEn0faG4i8DKS"> <img src="pics/songs.png" height="20vh"></a> and watching movies <a href= "https://www.netflix.com/in/browse/genre/107466"> <img src="pics/movies.png" height="20vh"></a> 
 </h4><br>
 
 <a href="https://github.com/harshchhabra37"><img src="https://komarev.com/ghpvc/?username=harshchhabra37&color=dc143c&style=plastic"></a> 
