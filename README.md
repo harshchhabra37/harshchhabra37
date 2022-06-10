@@ -1,12 +1,12 @@
 <h4 align="center"> 
   
 <h1 align="center">Hi👋, I'm Harsh Chhabra </h1>
- 
- 
-<img src="pics/octo.gif" width="100px" height="100px"></img> <br><br>
+
+<img src="pics/octo.gif" width="100px" height="100px"></img>
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+OpenSource...)](https://git.io/typing-svg)
+
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
- 
  <details><summary>👉 Web Development Intern at <strong>Coding Minutes</strong> <a href= "https://www.codingminutes.com"> <img height ="16vh" src ="pics/coding minutes.jpg"></a></summary> 
  <p> <br>
 I am a <b>Full Stack Web Development</b> Intern at <b>Coding Minutes</b>. Coding Minutes is an ed-tech startup whose motive is to provide great learning resources at a very minimal price.<br>
