@@ -66,7 +66,7 @@ Along with that we have also did an hands-on-project on Kotin named myEvents.<br
   <a href="https://drive.google.com/file/d/19VQKAvMs4Ing8YPRhCpN3FqNSzgOmDPG/view?usp=sharing">[Certificate Link]</a>
 </p>
 </details>
-<details><summary>👉 Beta <strong>Microsoft Learn Student Ambassador</strong> <a href= "https://studentambassadors.microsoft.com/en-US/profile/72635"> <img src="pics/mlsa.png" height="20vh"></a></summary>
+<details><summary>👉 Gold <strong>Microsoft Learn Student Ambassador</strong> <a href= "https://studentambassadors.microsoft.com/en-US/profile/72635"> <img src="pics/mlsa.png" height="20vh"></a></summary>
 <p><br>
 Microsoft Learn Student Ambassadors are a global group of campus leaders who are eager to help fellow students, create robust tech communities and develop technical and career skills fot the future.<br>
   <a href="https://studentambassadors.microsoft.com/certificate/c8aec9fd-43ea-46b8-9869-9a9b2b7d4eff">[Profile Link]</a>
