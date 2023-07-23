@@ -145,8 +145,7 @@ I love to spend time at <strong>GitHub</strong> :octocat:
 <br>
 
 
-![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harshchhabra37&theme=dracula)
-
+![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshchhabra37&custom_title=Harsh's%20Contribution%20Graph%20&hide_border=true&theme=github-compact&bg_color=000000)
 ## Connect with me:</h3>
 <p align="left">
 <div class="footer" id="top3">
