@@ -13,15 +13,14 @@ I am a <b>Full Stack Web Development</b> Intern at <b>Coding Minutes</b>. Coding
 </details>
 <details><summary>👉 Founder of <strong>Codeflow</strong> <a href= "https://www.youtube.com/c/Codefloworg"> <img src="pics/codeflow.png" height="20vh"></a></summary>
 <p><br>
-Codeflow is a student's driven organization running for students empowerment
-  
-We are currently working in three domains:
-  
-1.) Open-Source<br>
-2.) Workshops and webinars from industry experts<br>
-3.) Community building<br>
-  
-  And we have conducted very successful and popular events under Codeflow such as OpenForce and DSA Bootcamp.<br>
+Codeflow, an organisation that serves the ultimate purpose of ‘Learning must go on’, is an organization whose main motive is to empower the student community by bringing opportunities for growth, organizing webinars, hackathons and open source events and much more.
+
+Milestones:<br>
+📌As a community, we have impacted 10k+ students and reached 115+ colleges in less than 1 year. We had previously organized an event called “DSA Bootcamp” which had 6k+ registrations, 30+ community partners and collaborated with 25+ eminent speakers. We have established ourselves as one of the fastest-growing communities.
+
+📌Codeflow Developer Enclave 1.0 is an internal program run for student welfare, Project-Based Learning for the Session 2021. Selected Candidates will be working on diverse domains of projects, well equipped with resources and guided mentorship in an encouraging environment to explore programming.
+
+📌 Openforce 2022 was organised by us hosting 5k+ great tech minds, working with great opensource organizations Apache ShardingSphere, Eclipse Adoptium VIT, Microsoft Learn Student Ambassadors, MetaCall.io, moja global, AsyncAPI Initiative, Joomla!, @spring cloud, Layer5 , Backdrop CMS, Jina AI, OpenEBS, Hyperledger Foundation, many more.<br>
   <a href="https://linktr.ee/codefloworg">[Codeflow]</a> <a href="https://www.openforce.tech/">[OpenForce]</a> <a href="https://youtube.com/playlist?list=PLAEKaEzAsglWSaYUpznccQGy4JmNadFZJ">[DSA Bootcamp]</a>
 </p>
 </details>
